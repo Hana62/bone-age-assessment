@@ -1,6 +1,17 @@
+# Datasets (Not uploaded to Github)
+data/
+data_subset_5000/
+
+# Training outputs (Not uploaded to Github)
+artifacts/
+artifacts_5000/
+
+# outputs
+submission*.csv
+
+# python
 .venv/
 __pycache__/
 *.pyc
-artifacts/
-data/
 .DS_Store
+
